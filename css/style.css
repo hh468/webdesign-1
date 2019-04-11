@@ -2,7 +2,7 @@
 
 header {
 	width: 100%;
-	background-color: #efefef;
+	background-color: #7296B4;
 	position: fixed;
 	top: 0;
 	z-index: 1000;
@@ -13,7 +13,7 @@ header {
 	height: 20px;
 	float: left;
 	margin-top: 15px;
-	background: url("../images/pedagogy.svg") no-repeat;
+	background: url("../images/summer.svg") no-repeat;
 	
 }
 
@@ -41,7 +41,7 @@ nav li {
 }
 
 nav li a:link {
-	color: #091c5a;
+	color: #FCF2F2;
 	text-decoration: none;
 }
 
@@ -72,38 +72,29 @@ nav li a:active {
 }
 
 /* Hero Video */
-.hero-overlay {
-	position: absolute;
-	top: 136px;
-	height: 550px;
-	width: 940px;
-	z-index: 100;
-	background-image: url("../images/imac.png");
-	background-repeat: no-repeat;
-	background-position: bottom;
-	overflow: visible;
-}
-.hero-video {
-	width: 100%;
-	max-height: 580px;
-	overflow: hidden;
-	
-}
 
-video {
-	min-height: 580px;
 
-}
 .hero-headline {
 	text-align: center;
 	text-transform: uppercase;
 }
 /* Introduction */
-.introduction {
-	width: 100%;
-	padding: 120px 0 100px 0;
-	background-color: #fff;
+.introduction{
+	width:100%;
+	padding:100px 0;
+	background-color: #efefef;
+	
 }
+.projects-box{
+	background-color: #f8f8f8;
+}
+
+.projects-text{
+	text-align: justify;
+	padding: 10px 20px;
+	
+}
+
 
 
 
@@ -154,7 +145,7 @@ video {
 	
 }
 
-.projects-link{
+.projects-link{ 
 	font-size: 7em;
 	letter-spacing: .09em;
 	text-transform: uppercase;
