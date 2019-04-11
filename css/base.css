@@ -24,6 +24,7 @@ body {
 		text-align: left;
 		font-size: 100%;
 	}
+
 /* Typography */
 
 p {
@@ -38,13 +39,14 @@ h1 {
 	line-height: 1.1;
 }
 h2 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	font-weight: 500;
-	font-size: 2.2500em;
+	font-size: 3.250em;
 	line-height: 1.1;
+	
 }
 h3 {
-	font-family: 'Roboto Slab', serif;
+	font-family: 'ZCOOL QingKe HuangYou', cursive;
 	font-weight: 500;
 	font-size: 1.500em;
 	line-height: 1.1;
@@ -90,8 +92,9 @@ h6 {
 /* 2 columns */
 .columns_2 {
 	width: 460px;
-	float: left;
+	float: right;
 	margin-right: 20px;
+	
 	
 }
 .columns_2:last-of-type {
