@@ -108,13 +108,13 @@ nav li a:active {
 .about {
 	width: 100%;
 	padding: 100px 0 100px 0;
-	background-color: #7296B4;
+	background-color:#efefef;
 }
 
 .about {
 	width: 100%;
 	padding: 100px 0 100px 0;
-	background-color: #7296B4;
+	background-color: #efefef;
 }
 
 
@@ -129,9 +129,10 @@ nav li a:active {
 .testimonials img{
 	width:130px;
 	margin-bottom: 10px;
-	border-radious: 50%;
+	border-radius: 50%;
 	
 }
+
  /* Projects */
 .projects{
 	width:100%;

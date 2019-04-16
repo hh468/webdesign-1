@@ -91,9 +91,9 @@ h6 {
 
 /* 2 columns */
 .columns_2 {
-	width: 460px;
+	width: 450px;
 	float: right;
-	margin-right: 20px;
+	margin-right: 30px;
 	
 	
 }
@@ -104,7 +104,7 @@ h6 {
 /* 3 columns */
 .columns_3 {
 	width: 300px;
-	FLOAT: left;
+	Float: left;
 	margin-right: 20px;
 	
 }
@@ -152,7 +152,7 @@ h6 {
 	font-weight: 300;
 	border: 1px solid #000;
 	border-radius: 5px;
-	margin: 0 20px 0;
+	margin: 0 1px 0;
 	cursor: pointer;
 	
 }
@@ -160,13 +160,13 @@ h6 {
 
 .drk-otl-btn:link {
 	color: #000;
-	text-decoration: none;
+	text-decoration: #7296B4;
 }
 
 .drk-otl-btn:hover {
 	color:  #ff6600;
-	text-decoration: none;
-	border: 1px solid #ff6600;
+	text-decoration: #7296B4;
+	border: 1px solid #7296B4;
 }
 
 
