@@ -92,7 +92,7 @@ h6 {
 /* 2 columns */
 .columns_2 {
 	width: 450px;
-	float: right;
+	float: left;
 	margin-right: 30px;
 	
 	

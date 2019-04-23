@@ -90,7 +90,7 @@ nav li a:active {
 }
 
 /* Culture */
-.culture-copy {
+.culture {
 	width: 100%;
 	padding: 100px 0 100px 0;
 	background-color: #7296B4;
@@ -127,11 +127,13 @@ nav li a:active {
 }
 
 .testimonials img{
-	width:130px;
+	width:140px;
 	margin-bottom: 10px;
 	border-radius: 50%;
 	
 }
+
+
 
  /* Projects */
 .projects{
