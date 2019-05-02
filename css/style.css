@@ -134,6 +134,14 @@ nav li a:active {
 	
 }
 
+/*Portfolio*/
+.portfolio {
+	width: 100%;
+	padding: 100px 0;
+	float: left;
+	background: #efefef;
+}
+
 
 
  /* Projects */
@@ -141,7 +149,7 @@ nav li a:active {
 	width:200px;
 	height:300px;
 	padding:100px 0;
-	background-color: #efefef;
+	background-color: #5765CE;
 	
 }
 .projects-box{
@@ -185,31 +193,12 @@ nav li a:active {
 
 
 
-.fa-github,
-.fa-html5,
-.fa-wrench,
-.fa-file-pdf,
-.fa-codepen {
-	color: #696969;
-	font-size: 2.5em;
-	margin-bottom: 10px;
-	margin-top: 20px;
-}
-
-.fa-css3 {
-	color: #696969;
-	font-size: 2.3em;
-	margin-bottom: 10px;
-	margin-top: 20px;
-}
-
-
 /* Memberships */
  
 .memberships {
 	width: 100%;
 	padding:100px 0;
-	background-color: #eeeeee;
+	background-color: #7296B4;
 }
 
 .membership-free,
@@ -223,30 +212,30 @@ nav li a:active {
 
 
 .membership-free{
-	background-color: #a3a3a3;
+	background-color: #5765CE;
 }
 
 .membership-monthly{
-	background-color: #6e6e6e;
+	background-color: #5765CE;
 }
 
 .membership-yearly{
-	background-color: #a3a3a3;
+	background-color: #5765CE;
 }
 
 .membership-cost {
 	font-size: 1.2em;
-	color: #000000;
+	color: #efefef;
 	font-weight: 900;
 	text-align: center;
 	padding: 10px 0;
-	background-color: #dedede;
+	background-color: #8AA1AF;
 }
 
 .membership-features {
 	text-align: center;
 	padding: 30px 0 20px 0;
-	background-color: #f6f6f6;
+	background-color: #F4EAEA;
 }
 
 .membership-features ul {
@@ -266,14 +255,14 @@ nav li a:active {
 
 .membership-btn a:link {
 	border-radius: 5px;
-	background-color: #dedede;
+	background-color: #5765CE;
 	padding: 10px 30px;
 	font-size: .9em;
 	font-weight: 100;
 	text-decoration: none;
 	text-transform: uppercase;
 	text-align: center;
-	color: #515255;
+	color: #efefef;
 }
 
 

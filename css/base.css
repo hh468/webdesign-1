@@ -124,13 +124,13 @@ h6 {
 }
 
 /* 6 columns */
-.columns_4 {
-	width: 140px;
+.columns_6 {
+	width: 300px;
 	float: left;
 	margin-right: 20px;
 	
 }
-.columns_4:last-of-type {
+.columns_6:last-of-type {
 	margin-right: 0;
 }
 
@@ -207,6 +207,7 @@ h6 {
 
 	img {
 		width: 100%;
+		display: block;
 	}
 	
 	
