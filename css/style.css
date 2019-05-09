@@ -9,7 +9,7 @@ header {
 	padding: 15px 0 8px 0;
 }
 .name {
-	width: 400px;
+	width: 250px;
 	height: 90px;
 	float: left;
 	display: block;
@@ -85,8 +85,8 @@ nav li a:active {
 }
 
 .overlay-text {
-	top: 750px;
-	width: 20%;
+	top: 650px;
+	width: 30%;
 	z-index: 5;
 	text-align: center;
 	text-transform: uppercase;
