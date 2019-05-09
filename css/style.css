@@ -76,7 +76,7 @@ nav li a:active {
 
 .type-overlay {
 	
-	width: 150%;
+	width: 100px;
 	z-index: 5;
 	text-align: center;
 	text-transform: uppercase;
