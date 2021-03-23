@@ -79,32 +79,36 @@ section {
 	
 }
 
-.type-overlay {
-	
-	width: 100px;
-	z-index: 5;
-	text-align: center;
-	text-transform: uppercase;
-	position: absolute;
-	color: #ffffff;
+.hero {
+	background-image: url(../images/heroimage.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center
 }
 
+.type-overlay {
+	width: 50%;
+	color: #ffffff;
+	background-color: rgba(0,0,0, .5);
+	padding: 15px;
+
+
+}
 .overlay-text {
-	top: 150px;
-	width: 30%;
-	z-index: 5;
 	text-align: center;
 	text-transform: uppercase;
-	position: relative;
-	color: #ffffff;
-	font-size: 1.3em;
+		font-size: 2.2em;
+
 }
 
 
 /* Introduction */
 .introduction{
 	width:100%;
-	padding:100px 0;
+	
 	background-color: #efefef;
 	
 }
@@ -121,14 +125,14 @@ section {
 /* Culture */
 .culture {
 	width: 100%;
-	padding: 100px 0 100px 0;
+	
 	background-color: #7296B4;
 	
 }
 
 .culture {
 	width: 100%;
-	padding: 100px 0 100px 0;
+	
 	background-color: #7296B4;
 	
 }
@@ -136,7 +140,7 @@ section {
 /* About Us */
 .about {
 	width: 460px;
-	padding: 100px 0 100px 0;
+	
 	background-color:#efefef;
 }
 
@@ -151,7 +155,7 @@ section {
 /* Customer Testimonials */
 .testimonials{ 
 	width:100%;
-	padding:100px 0;
+	
 	background-color: #7296B4;
 }
 
@@ -166,7 +170,7 @@ section {
 /*Portfolio*/
 .portfolio {
 	width: 100%;
-	padding: 100px 0;
+	
 	float: left;
 	background: #7296B4;
 }
@@ -177,7 +181,7 @@ section {
 .projects{
 	width:200px;
 	height:300px;
-	padding:100px 0;
+	
 	background-color: #5765CE;
 	
 }
