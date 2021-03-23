@@ -70,7 +70,9 @@ nav li a:active {
 	
 }
 
-
+section {
+	padding: 50px 0;
+}
 .section-copy {
 	text-align: center;
 	font-size: 1.2em;
